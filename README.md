@@ -1,1 +1,1 @@
-# web3intrysync
+# auth.web3sync
